@@ -1,0 +1,38 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2vh;
+  text-align: center;
+  color: black;
+}
+.table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 40vw;
+  height: 40vh;
+}
+.table #tabHead {
+  background-color: rgb(125, 170, 253);
+  border: 1px solid black;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  font-weight: bold;
+}
+.table #tabElem {
+  border: 1px solid black;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  font-weight: bold;
+}
+.table #operator {
+  background-color: rgb(255, 158, 30);
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  border: 1px solid black;
+  font-weight: bold;
+}
